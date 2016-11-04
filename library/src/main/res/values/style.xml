@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GWProgressViewStyle">
+        <item name="progress_stroke_color">?attr/colorAccent</item>
+        <item name="progress_stroke_width">2dp</item>
+        <item name="progress_radius">20dp</item>
+        <item name="progress_immediate">true</item>
+        <item name="progress_duration">3000</item>
+        <item name="progress_interpolator">@android:interpolator/accelerate_decelerate</item>
+        <item name="progress_background_color">#88000000</item>
+    </style>
+
+
+
+</resources>
